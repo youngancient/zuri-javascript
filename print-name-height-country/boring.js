@@ -1,1 +1,0 @@
-document.write("Jude, 6fts 9inches, Nigeria");
